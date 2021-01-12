@@ -1,0 +1,10 @@
+var json_Arcillas_no_margosas_poco_plsticas_3 = {
+"type": "FeatureCollection",
+"name": "Arcillas_no_margosas_poco_plsticas_3",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "CÓDIGO": "CL-R-53", "X": "607160", "Y": "9535767", "Z": "780", "Sector": "El Guineo", "Mineral": "Arcillas no margosa poco plástica", "IP": "21", "Clasificac": "A-6; Suelos arcillosos", "Clasific_1": "CL (Arcilla de baja plasticidad)", "F__Contrac": 13.63, "F__Pérdid": 30.77, "Color_de_q": "Naranja claro", "SiO2": "47,90%", "Al2O3": "21,80%", "K2O": "0,47%", "Fe2O3": "7,74%", "TiO2": "0,63%", "CaO_MgO": "0,86%", "SiO2__Al2O": "69,70%", "Fe2O3___Ti": "8,37%" }, "geometry": { "type": "Point", "coordinates": [ -80.034450565681496, -4.199387903915558 ] } },
+{ "type": "Feature", "properties": { "CÓDIGO": "CL-R-63", "X": "614286", "Y": "9547910", "Z": "2040", "Sector": "Celica", "Mineral": "Arcillas no margosa poco plástica", "IP": "24", "Clasificac": "A-7-6;  Suelos arcillosos", "Clasific_1": "CL (Arcilla de baja plasticidad)", "F__Contrac": 9.7, "F__Pérdid": 32.39, "Color_de_q": "Naranja oscuro", "SiO2": "42,20%", "Al2O3": "23,70%", "K2O": "0,52%", "Fe2O3": "6,63%", "TiO2": "0,81%", "CaO_MgO": "0,29%", "SiO2__Al2O": "65,90%", "Fe2O3___Ti": "7,44%" }, "geometry": { "type": "Point", "coordinates": [ -79.970391661398722, -4.089467798446391 ] } },
+{ "type": "Feature", "properties": { "CÓDIGO": "CL-R-88", "X": "597138", "Y": "9528713", "Z": "360", "Sector": "El Naranjo", "Mineral": "Arcillas no margosa poco plástica", "IP": "0", "Clasificac": "A-4; Suelos limosos", "Clasific_1": "SM (Arena Limosa)", "F__Contrac": 5.9, "F__Pérdid": 42.0, "Color_de_q": "Morado perlado", "SiO2": "65,60%", "Al2O3": "5,18%", "K2O": "0%", "Fe2O3": "4,90%", "TiO2": "0,77%", "CaO_MgO": "0,43%", "SiO2__Al2O": "70,78%", "Fe2O3___Ti": "5,67%" }, "geometry": { "type": "Point", "coordinates": [ -80.12467320210915, -4.263303321249472 ] } }
+]
+}
